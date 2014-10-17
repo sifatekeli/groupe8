@@ -2,7 +2,7 @@
  * Catalog.java
  *
  * TEST GIT
-*correction
+ * correction
  */
 package controller;
 
