@@ -1,0 +1,13 @@
+	/* Général */
+	*{font-family:arial;}
+
+	/* Corps */ 
+	.corps{display:block;width:100%;height:auto;padding:10px;padding-top:5px;background:#EEEFEF;margin-left:auto;margin-right:auto;text-align:center;}
+	
+	/* Actualités */
+	.actu{display:block;width:90%;height:auto;margin:20px;background:white;margin-left:auto;margin-right:auto;box-shadow:4px 4px lightgrey;padding:5px;}
+	.imgactu{display:inline-block;float:left;margin:7px;width:15%;height:auto;background:lightgrey;}
+	.titre_actu{font-size:14pt;font-weight:bold;margin:10px;margin-top:10px;}
+	.text_actu{display:block;padding:0px;padding-left:5px;padding-right:5px;}
+	.actulien{text-decoration:none;color:black;}
+	.date_actu{color:grey;}
